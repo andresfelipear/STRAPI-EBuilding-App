@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_summary_summaries",
+  "info": {
+    "displayName": "Summary"
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}
