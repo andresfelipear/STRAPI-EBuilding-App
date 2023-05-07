@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_categories_list_services",
+  "info": {
+    "displayName": "ListServices"
+  },
+  "options": {},
+  "attributes": {
+    "Service": {
+      "type": "component",
+      "repeatable": true,
+      "component": "categories.services"
+    }
+  }
+}

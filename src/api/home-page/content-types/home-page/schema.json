@@ -15,9 +15,10 @@
     "Dynamic": {
       "type": "dynamiczone",
       "components": [
-        "categories.services",
-        "summary.summary"
-      ]
+        "summary.summary",
+        "categories.list-services"
+      ],
+      "required": true
     }
   }
 }
